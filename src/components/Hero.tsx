@@ -6,7 +6,7 @@ export default function Hero() {
           Hi, I'm Wahyu Indra 👋
         </h1>
         <p className="text-lg sm:text-xl text-gray-700 dark:text-gray-300 mb-8">
-          A Frontend Developer focused on building responsive, accessible, and modern web interfaces using React, Next.js, and Tailwind CSS.
+          A Fullstack Developer specializing in building modern web and mobile applications using technologies like React, Next.js, Laravel, and Flutter.
         </p>
         <a
           href="#projects"
@@ -16,6 +16,5 @@ export default function Hero() {
         </a>
       </div>
     </section>
-  )
+  );
 }
-

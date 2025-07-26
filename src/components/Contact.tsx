@@ -7,7 +7,7 @@ export default function Contact() {
           Interested in working together or just want to say hello?
         </p>
         <a
-          href="mailto:wahyuindra.dev@gmail.com"
+          href="mailto:wahyuindra712@gmail.com"
           className="inline-block px-6 py-3 bg-gray-900 text-white dark:bg-white dark:text-gray-900 font-semibold rounded-full hover:bg-gray-700 dark:hover:bg-gray-100 transition"
         >
           Get in Touch

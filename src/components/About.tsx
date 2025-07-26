@@ -4,9 +4,9 @@ export default function About() {
       <div className="max-w-3xl mx-auto text-center">
         <h2 className="text-3xl font-bold mb-6 text-gray-900 dark:text-white">About Me</h2>
         <p className="text-lg text-gray-700 dark:text-gray-300">
-          I'm a frontend developer passionate about creating intuitive and accessible web experiences. With strong skills in JavaScript, TypeScript, and UI frameworks like React and Next.js, I enjoy building applications that solve real problems and deliver delightful user experiences.
+          I'm a fullstack developer passionate about crafting scalable and maintainable applications, both for web and mobile platforms. With solid experience in technologies like React, Next.js, Laravel, and Flutter, I love solving real-world problems through clean code and thoughtful design.
         </p>
       </div>
     </section>
-  )
+  );
 }
