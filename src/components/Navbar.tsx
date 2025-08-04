@@ -1,15 +1,5 @@
-// const Navbar = () => {
-//     return (
-//         <>
-            
-//         </>
-//     )
-// }
-
-// export default Navbar;
-// import { ThemeProvider } from "@/components/ThemeProvider"
 import Link from 'next/link';
-import { ModeToggle } from './ModeToggle'
+// import { ModeToggle } from './ModeToggle'
 
 export default function Navbar() {
   return (
@@ -20,7 +10,7 @@ export default function Navbar() {
           <Link href="#projects">Projects</Link>
           <Link href="#about">About</Link>
           <Link href="#contact">Contact</Link>
-          <ModeToggle />
+          {/* <ModeToggle /> */}
         </nav>
       </div>
     </header>

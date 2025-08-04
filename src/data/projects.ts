@@ -11,25 +11,37 @@ export interface Project {
 }
 
 export const projects: Project[] = [
+
   {
-    slug: "personal-portfolio",
-    title: "Personal Portfolio Website",
-    description: "A personal website built with Next.js 15, Tailwind CSS, and TypeScript to showcase my work and skills.",
-    image: "/images/portfolio.png",
-    stack: ["Next.js", "Tailwind CSS", "TypeScript", "Lucide"],
-    links: [
-      { type: "github", url: "https://github.com/indrasz/portfolio" },
-      { type: "demo", url: "https://indrasz.vercel.app" },
-    ],
-  },
-  {
-    slug: "freelance-platform",
-    title: "Freelance Platform Clone",
-    description: "A freelance job board inspired by Projects.co.id with authentication, bidding system, and payment tracking.",
-    image: "/images/freelance.png",
-    stack: ["Next.js", "Prisma", "PostgreSQL", "Tailwind"],
+    slug: "anak-asuh-lazissu",
+    title: "Website Anak Asuh Lazissu",
+    description:
+      "A web-based platform for Lazissu to manage and monitor anak asuh (sponsored children), featuring child profiles, donation tracking, and guardian dashboards. Built with React for a responsive UI and Laravel for secure data handling and API integration.",
+    image: "/images/anak-asuh-lazissu.png",
+    stack: ["React", "Laravel", "REST API", "MySQL", "Tailwind CSS"],
     links: [
       { type: "github", url: "https://github.com/indrasz/freelance-platform" },
     ],
   },
+  {
+    slug: "carbonstock-monitoring",
+    title: "Carbon Stcok Monitoring",
+    description: "A cross-platform application built with Flutter for monitoring carbon stock in forestry areas, supported by a robust Laravel backend for real-time data management and user authentication.",
+    image: "/images/carbonstock-monitoring.png",
+    stack: ["Flutter", "Laravel", "REST API", "MySQL", "Firebase", "Map Integration"],
+    links: [
+      { type: "github", url: "#" },
+      { type: "demo", url: "#" },
+    ],
+  },
+  {
+    slug: "grow-ecommerce",
+    title: "Grow E-Commerce",
+    description:"A full-featured e-commerce platform for selling goods and services across provinces in Indonesia. Built entirely with Laravel, the system supports product listings, service bookings, inter-provincial shipping, user roles, and integrated payment workflows — all styled with Bootstrap for a clean, responsive interface.",
+    image: "/images/grow-platform.png",
+    stack: ["Laravel (Fullstack)", "MySQL", "Bootstrap", "Blade Templating", "REST API"],
+    links: [
+      { type: "github", url: "https://github.com/indrasz/grow-ecommerce" },
+    ],
+  }
 ];
