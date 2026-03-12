@@ -20,7 +20,7 @@ export const projects: Project[] = [
     title: "MeetGeek Mobile",
     subtitle: "AI-Powered Meeting Assistant App",
     company: "Cerulean Studio",
-    year: "2024",
+    year: "2026",
     description:
       "A mobile application for MeetGeek — an AI meeting assistant platform by Cerulean Studio (Italy). Built with React Native for iOS and Android, the app lets users record face-to-face and online meetings, receive AI-generated summaries and transcripts in 50+ languages, review action items, and access their full meeting history — all from their phone.",
     image: "/images/meetgeek-app.png",
@@ -41,7 +41,7 @@ export const projects: Project[] = [
     title: "IA Rubber",
     subtitle: "Rubber Production Line Monitoring",
     company: "Adis Dimension Footwear",
-    year: "2023",
+    year: "2025",
     description:
       "An industrial automation system developed for Adis Dimension Footwear to monitor and manage rubber component production lines. Tracks real-time machine output, material usage, and production targets — giving floor supervisors live visibility into rubber processing for footwear manufacturing.",
     image: "/images/rubber.png",
@@ -62,7 +62,7 @@ export const projects: Project[] = [
     title: "IA Stitching",
     subtitle: "Stitching Line Automation & QC",
     company: "Adis Dimension Footwear",
-    year: "2023",
+    year: "2025",
     description:
       "An industrial automation platform built for Adis Dimension Footwear to oversee stitching line operations. Monitors operator productivity, stitch cycle counts, and quality flags in real time — helping production managers reduce defect rates and maintain consistent output across footwear assembly lines.",
     image: "/images/stitching.png",
@@ -83,7 +83,7 @@ export const projects: Project[] = [
     title: "Control Room",
     subtitle: "Centralized Factory Operations Dashboard",
     company: "Adis Dimension Footwear",
-    year: "2024",
+    year: "2025",
     description:
       "A centralized operations dashboard developed for Adis Dimension Footwear, aggregating live data from multiple production lines — including rubber, stitching, and assembly — into a single command view. Designed for factory supervisors to monitor KPIs, track bottlenecks, and respond to anomalies across the entire shoe manufacturing floor.",
     image: "/images/control-room.png",
@@ -104,7 +104,7 @@ export const projects: Project[] = [
     title: "QMS Revamp",
     subtitle: "Quality Management System Modernization",
     company: "Adis Dimension Footwear",
-    year: "2024",
+    year: "2025",
     description:
       "A revamped Quality Management System for Adis Dimension Footwear, replacing legacy inspection workflows with a modern, data-driven interface. Enables QC teams to log defects, track inspection results per production batch, and generate quality reports — ensuring footwear standards are met consistently across all production stages.",
     image: "/images/qms-revamp.png",
@@ -125,7 +125,7 @@ export const projects: Project[] = [
     title: "Website Anak Asuh Lazissu",
     subtitle: "Sponsored Children Management Platform",
     company: "Lazissu",
-    year: "2022",
+    year: "2023",
     description:
       "A web-based platform for Lazissu to manage and monitor anak asuh (sponsored children), featuring child profiles, donation tracking, and guardian dashboards. Built with React for a responsive UI and Laravel for secure data handling and API integration.",
     image: "/images/anak-asuh-lazissu.png",
