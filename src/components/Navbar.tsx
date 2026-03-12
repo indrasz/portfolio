@@ -43,12 +43,12 @@ export default function Navbar() {
               {link.label}
             </Link>
           ))}
-          {/* <ModeToggle /> */}
+          <ModeToggle />
         </nav>
 
         {/* Mobile: Toggle + Hamburger */}
         <div className="flex sm:hidden items-center gap-3">
-          {/* <ModeToggle /> */}
+          <ModeToggle />
           <button
             onClick={() => setMenuOpen((prev) => !prev)}
             aria-label="Toggle menu"
