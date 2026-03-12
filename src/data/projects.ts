@@ -27,7 +27,7 @@ export const projects: Project[] = [
     title: "IA Rubber",
     description:
       "An industrial automation system developed for Adis Dimension Footwear to monitor and manage rubber component production lines. Tracks real-time machine output, material usage, and production targets — giving floor supervisors live visibility into rubber processing for footwear manufacturing.",
-    image: "/images/carbonstock-monitoring.png",
+    image: "/images/rubber.png",
     stack: ["Next.js", "Golang", "REST API", "MySQL", "Tailwind CSS"],
     links: [
       { type: "demo", url: "#" },
@@ -38,7 +38,7 @@ export const projects: Project[] = [
     title: "IA Stitching",
     description:
       "An industrial automation platform built for Adis Dimension Footwear to oversee stitching line operations. Monitors operator productivity, stitch cycle counts, and quality flags in real time — helping production managers reduce defect rates and maintain consistent output across footwear assembly lines.",
-    image: "/images/carbonstock-monitoring.png",
+    image: "/images/stitching.png",
     stack: ["Next.js", "Laravel", "REST API", "MySQL", "Tailwind CSS"],
     links: [
       { type: "demo", url: "#" },
